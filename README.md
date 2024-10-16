@@ -1,4 +1,4 @@
-## Hi there 👋
+# bem vindo ao meu perfil 👋
 
 <!--
 **gabriel29223/gabriel29223** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+ ![](https://media.tenor.com/3DWooSY9NlEAAAAj/rockstar-games-red-dead-redemption.gif)
+ ![](https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white)
+ ![](https://img.shields.io/badge/FIFA-B7312F?style=for-the-badge&logo=fifa&logoColor=white)
