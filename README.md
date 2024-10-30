@@ -1,18 +1,20 @@
 # bem vindo ao meu perfil 👋
+-meu nome é Gabriel
 
-<!--
-**gabriel29223/gabriel29223** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-tenho 15 anos
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+
+
+
+
+
+
+
+
  ![](https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white)
  ![](https://img.shields.io/badge/FIFA-B7312F?style=for-the-badge&logo=fifa&logoColor=white)
